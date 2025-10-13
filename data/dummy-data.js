@@ -21,7 +21,7 @@ export const MEALS = [
     "Spaghetti with Tomato Sauce",
     "affordable",
     "simple",
-    "https://www.istockphoto.com/photo/pasta-plate-gm632439546-112314565?utm_source=pixabay&utm_medium=affiliate&utm_campaign=sponsored_image&utm_content=srp_topbanner-popular_media&utm_term=spaghetti",
+    "https://cdn.pixabay.com/photo/2018/07/11/21/51/toast-3532016_1280.jpg",
     20,
     [
       "4 Tomatoes",
