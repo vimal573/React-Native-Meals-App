@@ -11,8 +11,14 @@
     "preview": {
       "distribution": "internal"
     },
+    "ios-simulator": {
+      "ios": {
+        "simulator": true
+      }
+    },
     "production": {
-      "autoIncrement": true
+      "autoIncrement": true,
+      "ios": { "image": "latest" }
     }
   },
   "submit": {
